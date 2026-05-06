@@ -31,7 +31,7 @@ The client targets businesses and developers building payment flows that require
 
 - **Language**: PHP 8.1+
 - **HTTP Client**: Guzzle HTTP 7.10.0
-- **Testing**: PHPUnit 10.5.58
+- **Testing**: PHPUnit 12.5.24
 - **Code Standards**: PHP-CS-Fixer
 - **Namespace**: `AkselerasiPrimaDigital\FlipForBusinessPhp`
 
