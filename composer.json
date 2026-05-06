@@ -1,7 +1,7 @@
 {
     "name": "akselerasiprimadigital/flip-for-business-php",
     "description": "Unofficial PHP client for Flip for Business APIs (Disbursement, Accept Payment, Virtual Account, etc) by Akselerasi Prima Digital.",
-    "version": "0.0.1-dev",
+    "version": "0.0.1",
     "keywords": [
         "bigflip",
         "flip",
@@ -11,7 +11,7 @@
     "type": "library",
     "require": {
         "php": "^8.1",
-        "phpunit/phpunit": "10.5.58",
+        "phpunit/phpunit": "12.5.24",
         "guzzlehttp/guzzle": "7.10.0"
     },
     "license": "MIT",
@@ -22,12 +22,12 @@
     },
     "authors": [
         {
-            "name": "Reynaldi Arya",
-            "email": "halo@reynaldiab.com"
+            "name": "Akselerasi Prima Digital",
+            "email": "info@akseprima.com"
         }
     ],
     "minimum-stability": "dev",
     "require-dev": {
-        "friendsofphp/php-cs-fixer": "dev-master"
+        "friendsofphp/php-cs-fixer": "3.95.1"
     }
 }
